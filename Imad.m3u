@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" group-title="SERIES", Roya TV
-http://roya-live.ercdn.net/roya/roya.m3u8!
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="General", Roya TV
+http://roya-live.ercdn.net/roya/roya.m3u8
+
