@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="General", Roya TV
 http://roya-live.ercdn.net/roya/roya.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="General", MBC Drama (HD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+
