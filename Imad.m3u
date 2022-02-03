@@ -3,7 +3,7 @@
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="General", Roya TV HD
-https://roya-live.ercdn.net/roya/roya_720p.m3u8?st=jDXstPf6hotlQguv5JZbnw&e=1643978565
+https://roya-live.ercdn.net/roya/roya_1080p.m3u8?st=jDXstPf6hotlQguv5JZbnw&e=1643978565
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="General", MBC Drama (HD)
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
