@@ -3,7 +3,7 @@
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="General", MBC Drama (HD)
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8?checkedby:iptvcat.com
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLVn02z.png" group-title="General", Jordan TV
-http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
