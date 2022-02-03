@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="General", Roya TV
-https://weyyak-live.akamaized.net/weyyak_roya/indexhd.m3u8
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="General", Roya TV HD
+http://roya-live.ercdn.net/roya/royahd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="General", MBC Drama (HD)
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
