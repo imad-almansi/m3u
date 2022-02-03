@@ -1,10 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="LIVE", Roya TV HD
-#PLAYLIST:LIVE
 https://roya-live.ercdn.net/roya/roya_1080p.m3u8?st=jDXstPf6hotlQguv5JZbnw&e=1643978565
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="General", MBC Drama (HD)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="LIVE", MBC Drama (HD)
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLVn02z.png" group-title="General", Jordan TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLVn02z.png" group-title="LIVE", Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
