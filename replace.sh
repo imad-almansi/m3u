@@ -18,3 +18,9 @@ URL=$(curl 'https://roya.tv/api/livestream/ticket' \
   -H 'referer: https://roya.tv/live-stream' | jq -r '.data.secured_url')
 
 sed -i "/roya-live/c$URL" Imad.m3u
+
+git config user.name "imad-almansi"
+git config user.email "imadalmansi@yahoo.com"
+git add -A
+git commit -m "replace url"
+git push
