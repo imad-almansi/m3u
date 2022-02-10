@@ -7,3 +7,6 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLVn02z.png" group-title="LIVE", Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="SERIES", Bab Al-Hara
+https://roya-vod.ercdn.net/hls/i/tW/ejeovocr2ztk2guxafbcktsdbetdxdag4pseffta/ejeovocr2ztk2guxafbcktsdbetdxdag4pseffta.hb.smil/playlist.m3u8?st=6W0sTsYsmG30jXrwHjpDCw&e=1644817857
