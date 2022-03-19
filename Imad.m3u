@@ -7,3 +7,15 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLVn02z.png" group-title="LIVE", Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy", Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" group-title="LIVE", Abu Dhabi Aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiDrama.ae" group-title="LIVE", Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" group-title="LIVE", Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
