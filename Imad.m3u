@@ -17,8 +17,8 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" group-title="LIVE", Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCEgypt.ae" status="online", MBC Masr 1
+#EXTINF:-1 tvg-id="MBCEgypt.ae" status="online" group-title="LIVE", MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCMasr2.ae" status="online", MBC Masr 2
+#EXTINF:-1 tvg-id="MBCMasr2.ae" status="online" group-title="LIVE", MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
