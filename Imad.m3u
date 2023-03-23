@@ -2,8 +2,26 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="LIVE", Roya TV HD
 https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d&ce=3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="LIVE", MBC Drama (HD)
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC 1
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1923.ts
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC 2
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1918.ts
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC 3
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1921.ts
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC Drama
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1913.ts
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC Masr
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1912.ts
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC Action
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1915.ts
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC Max
+http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1911.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HLVn02z.png" group-title="LIVE", Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
@@ -16,9 +34,3 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" group-title="LIVE", Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MBCEgypt.ae" status="online" group-title="LIVE", MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCMasr2.ae" status="online" group-title="LIVE", MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
