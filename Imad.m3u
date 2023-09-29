@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fp4v5gR.png" group-title="LIVE", Roya TV HD
 https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d&ce=3
 
+#EXTINF:-1 tvg-id="Aljazeera.qa" status="online" group-title="LIVE",Al-Jazeera
+https://list.iptvcat.com/my_list/s/5b2c504a35c601aa59ecbf57a357a664.m3u8
+
 #EXTINF:-1 tvg-id="MBCDrama.ae" status="online" group-title="LIVE",MBC 1
 http://ipc.proipciptv.com:8000/live/teleg2/2824745242/1923.ts
 
